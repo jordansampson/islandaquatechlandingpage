@@ -15,9 +15,7 @@ body {
 }
 
 .business-header {
-    height: 80vh;
-    min-height: 300px;
-    background:url('../cover1.jpg') center center no-repeat scroll;
+    height: 50%;
     -webkit-background-size: 100%, 100%;
     -moz-background-size: 100%, 100%;
     background-size: 100%, 100%;
@@ -27,3 +25,9 @@ body {
 .card {
     height: 100%;
 }
+
+h4 {
+    color: #00008b;
+}
+
+
